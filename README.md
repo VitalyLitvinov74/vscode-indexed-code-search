@@ -50,6 +50,7 @@
 - [Исследование рынка, поведения PhpStorm и возможностей VS Code](docs/research/2026-07-21-landscape.md)
 - [Матрица пользовательских сценариев и приоритетов](docs/research/2026-07-21-feature-parity.md)
 - [Техническая граница использования родного поиска VS Code](docs/research/2026-07-21-vscode-native-search.md)
+- [Осуществимость родного сценария и переключения категорий](docs/research/2026-07-21-native-ux-feasibility.md)
 - [Название и поисковое позиционирование](docs/research/2026-07-21-naming-and-seo.md)
 
 ## Лицензия
