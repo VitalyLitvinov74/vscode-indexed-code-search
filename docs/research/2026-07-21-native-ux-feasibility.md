@@ -188,6 +188,10 @@ VS Code поддерживает сочетания только из модиф
 - [Команда Quick Search в 1.89.0](https://github.com/microsoft/vscode/blob/1.89.0/src/vs/workbench/contrib/search/browser/searchActionsTextQuickAccess.ts)
 - [Команда поиска символов в 1.89.0](https://github.com/microsoft/vscode/blob/1.89.0/src/vs/workbench/contrib/search/browser/searchActionsSymbol.ts)
 - [Стабильные API активного редактора и документа в 1.127.0](https://github.com/microsoft/vscode/blob/1.127.0/src/vscode-dts/vscode.d.ts)
+- [Контекстный ключ файлов в 1.127.0](https://github.com/microsoft/vscode/blob/1.127.0/src/vs/workbench/browser/quickaccess.ts)
+- [Регистрация символов в 1.127.0](https://github.com/microsoft/vscode/blob/1.127.0/src/vs/workbench/contrib/search/browser/searchQuickAccess.contribution.ts)
+- [Регистрация текста в 1.127.0](https://github.com/microsoft/vscode/blob/1.127.0/src/vs/workbench/contrib/search/browser/search.contribution.ts)
+- [Регистрация палитры команд в 1.127.0](https://github.com/microsoft/vscode/blob/1.127.0/src/vs/workbench/contrib/quickaccess/browser/quickAccess.contribution.ts)
 
 ### Обсуждения
 
