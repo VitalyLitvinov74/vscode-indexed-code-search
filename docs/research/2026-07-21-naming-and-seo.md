@@ -89,11 +89,7 @@
 
 **Отображаемое название:** `Search Everywhere Native`
 
-**Краткое описание:** PhpStorm-style `Search Everywhere` UX for VS Code powered by native `Quick Open`, `Quick Search`, workspace symbols, and commands — no custom index.
-
-Англоязычное краткое описание оставлено как заготовка для глобальной карточки. Русская версия:
-
-> Пользовательский путь `Search Everywhere` для VS Code поверх родных `Quick Open`, `Quick Search`, символов и команд — без собственного индекса.
+**Краткое описание:** Пользовательский путь `Search Everywhere` для VS Code поверх родных `Quick Open`, `Quick Search`, символов и команд — без собственного индекса.
 
 Категория: `Other`. Метка предварительного выпуска: `preview: true` до подтверждения сценариев первой версии.
 
